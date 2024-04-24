@@ -37,6 +37,7 @@ tags:
   - 开源
 
 categories:
+  - Baz
   - Demo
   - 教程
 ---
