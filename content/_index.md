@@ -140,7 +140,7 @@ sections:
         folders:
           - post
         author: ""
-        category: Baz
+        category: "Baz"
         tag: ""
         exclude_featured: false
         exclude_future: false
